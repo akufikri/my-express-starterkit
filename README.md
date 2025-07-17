@@ -13,13 +13,13 @@ A customizable CLI tool to scaffold your backend Express.js project with options
 ### 1. Install globally via NPM
 
 ```bash
-npm install -g my-starterkit
+npm install -g my-express-starterkit
 ```
 
 ### 2. Create a new project
 
 ```bash
-my-starterkit
+my-express-starterkit
 ```
 
 You will be prompted to choose:
@@ -66,7 +66,7 @@ your-project-name/
 ## 🧪 Example Usage
 
 ```bash
-my-starterkit
+my-express-starterkit
 # ? Choose your language: TypeScript
 # ? Choose your runtime: bun
 # ? Do you want to use Prisma? Yes
