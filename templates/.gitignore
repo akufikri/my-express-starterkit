@@ -1,0 +1,21 @@
+# Env files
+.env
+
+# Dependency folders
+node_modules/
+bun.lockb
+
+# Prisma generated client (optional, bisa generate ulang)
+prisma/generated/
+prisma/migrations/
+
+# Output folder
+dist/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
