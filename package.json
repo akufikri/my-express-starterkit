@@ -1,17 +1,17 @@
 {
-  "name": "my-starterkit",
+  "name": "my-express-starterkit",
   "version": "1.0.0",
   "description": "CLI to bootstrap backend projects with Express",
   "main": "bin/cli.js",
   "bin": {
-    "my-starterkit": "bin/cli.js"
+    "my-express-starterkit": "bin/cli.js"
   },
   "keywords": ["cli", "starterkit", "express", "backend"],
   "author": "akufikri",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.0.0",
-    "execa": "^8.0.0"
+    "execa": "^8.0.0",
+    "inquirer": "^9.0.0"
   },
-  "type": "module" 
+  "type": "module"
 }
